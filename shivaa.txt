@@ -3,7 +3,7 @@
 <title> shiva hom page</title>
 </head>
 <body>
-hello world!
+hello world! and child class
 please contact adinistrator
 </body>
 </html>
